@@ -1,0 +1,19 @@
+From 6f3edfef5a3a6924220ab8ae748147c40a4ae821 Mon Sep 17 00:00:00 2001
+From: Wang Zhihu <1203498087@qq.com>
+Date: Fri, 16 Oct 2015 12:35:29 +0800
+Subject: [PATCH] fix 1.0 bug
+
+---
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/README.md b/README.md
+index 1e3c3bb..bf13e89 100644
+--- a/README.md
++++ b/README.md
+@@ -1 +1,2 @@
+ # makePatch
++fix 1.0 bug
+-- 
+1.9.5.msysgit.1
+
